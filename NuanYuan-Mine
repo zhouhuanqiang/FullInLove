@@ -1,0 +1,31 @@
+{
+  "code": "2000",
+  "data": {
+    "list": [
+      {
+        "id": "21",
+        "license_number": "来看看",
+        "brand_str": "AC Schnitzer X5",
+        "brand_img": "https://car3.autoimg.cn/cardfs/series/g27/M01/B0/62/100x100_f40_autohomecar__ChcCQFs9vBKAO3YSAAAW0WOWvRc555.png",
+        "brand": "2097",
+        "paper_img": "/uploads/driver/20190127/cd6637c72e2e394ff7a59ebb4e966073.jpg",
+        "model_str": "2015款 ACS35 35i",
+        "model": "24355",
+        "departure_time": "2019-01-23 00:00:00",
+        "odo": "11",
+        "city_str": "东城区",
+        "city": "110101",
+        "vin": "HHH",
+        "register_time": "2019-01-27 00:00:00",
+        "engine_no": "HHH",
+        "userId": "535",
+        "status": "0",
+        "province": null,
+        "province_str": null,
+        "area": null,
+        "area_str": null
+      }
+    ]
+  },
+  "msg": "获取成功"
+}
