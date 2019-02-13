@@ -1,0 +1,103 @@
+{
+    "news": [
+        {
+            "ID": 10001,
+            "url": "https://apirent4alone.app887.com/article/rent4/news.html?id=1548904992509&project=rent4",
+            "colver": "https://upyunnewspic.app887.com/rent4/zezhfbz02ji.jpg",
+            "title": "家里的这几个地方,养不死绿植",
+            "source": "装个好房子",
+            "like": 101,
+            "collection": 3
+        },
+        {
+            "ID": 10002,
+            "url": "https://apirent4alone.app887.com/article/rent4/news.html?id=1548528672473&project=rent4",
+            "colver": "http://n.sinaimg.cn/finance/crawl/750/w450h300/20180621/NmbM-hefphqk7083590.jpg",
+            "title": "“装修贷”套路被曝光了!房子没装修,贷款翻倍还?",
+            "source": "阿历观楼市",
+            "like": 20,
+            "collection": 3
+        },
+        {
+            "ID": 10003,
+            "url": "https://apirent4alone.app887.com/article/rent4/news.html?id=1550629928348&project=rent4",
+            "colver": "https://upyunnewspic.app887.com/rent4/nsrfjl0hejb.jpg",
+            "title": "房价难降购房者面临两难选择，房子到底应该怎么买？",
+            "source": "在家INHOME",
+            "like": 11,
+            "collection": 13
+        },
+        {
+            "ID": 10004,
+            "url": "https://apirent4alone.app887.com/article/rent4/news.html?id=1547633315376&project=rent4",
+            "colver": "https://upyunnewspic.app887.com/rent4/ce0e5hstyt4.jpg",
+            "title": "国家统计局最新数据表明，2019年楼市将有三点新变化",
+            "source": "HOME杂志",
+            "like": 1,
+            "collection": 3
+        },
+        {
+            "ID": 10005,
+            "url": "https://apirent4alone.app887.com/article/rent4/news.html?id=1550336778991&project=rent4",
+            "colver": "https://upyunnewspic.app887.com/rent4/p5xdaslpzq4.jpg",
+            "title": "看到最新的房价数据之后，2019年买房的信心更坚定了",
+            "source": "我爱我家",
+            "like": 21,
+            "collection": 31
+        },
+        {
+            "ID": 10006,
+            "url": "https://apirent4alone.app887.com/article/rent4/news.html?id=1548194596810&project=rent4",
+            "colver": "http://inews.gtimg.com/newsapp_bt/0/7481452252/641",
+            "title": "95后链家中介：不回家过年，是为了离梦想更近一点",
+            "source": "在家INHOME",
+            "like": 2,
+            "collection": 0
+        },
+        {
+            "ID": 10007,
+            "url": "https://apirent4alone.app887.com/article/rent4/news.html?id=1547362219355&project=rent4",
+            "colver": "http://img1.gtimg.com/house/pics/hv1/31/19/2304/149822476.jpg",
+            "title": "第一太平戴维斯：看好广州、成都甲级写字楼市场",
+            "source": "的的房产",
+            "like": 0,
+            "collection": 0
+        },
+        {
+            "ID": 10008,
+            "url": "https://apirent4alone.app887.com/article/rent4/news.html?id=1548994803753&project=rent4",
+            "colver": "https://upyunnewspic.app887.com/rent4/esto1ioreul.jpg",
+            "title": "抛弃电视、打造超大书墙,她家的客厅简直绝了!",
+            "source": "在家INHOME",
+            "like": 1,
+            "collection": 1
+        },
+        {
+            "ID": 10009,
+            "url": "https://apirent4alone.app887.com/article/rent4/news.html?id=1549469414982&project=rent4",
+            "colver": "https://upyunnewspic.app887.com/rent4/veos4nk0ao1.jpg",
+            "title": "打造完美“人宠共处”的家,还有浓浓日式风,吸猫这件事,我们是认真的!",
+            "source": "装个好房子",
+            "like": 0,
+            "collection": 3
+        },
+        {
+            "ID": 10010,
+            "url": "https://apirent4alone.app887.com/article/rent4/news.html?id=1550056803922&project=rent4",
+            "colver": "http://inews.gtimg.com/newsapp_bt/0/7427410678/641",
+            "title": "中粮·置地广场客户答谢会暨BREEAM授牌仪式完美收官",
+            "source": "在家INHOME",
+            "like": 0,
+            "collection": 0
+        },
+        {
+            "ID": 10011,
+            "url": "https://apirent4alone.app887.com/article/rent4/news.html?id=1550060112027&project=rent4",
+            "colver": "https://upyunnewspic.app887.com/rent4/jehdedbcsne.jpg",
+            "title": "好宅 | 线性美学构造160平米的品位居所",
+            "source": "阿历观楼市",
+            "like": 101,
+            "collection": 3
+        }
+    ]
+}

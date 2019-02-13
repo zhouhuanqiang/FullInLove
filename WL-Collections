@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "houseingResourceID": 20001,
+            "userId": 100,
+            "rentType": "整租",
+            "housePictures": [
+                "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1550050676409&di=529fe8c9164ec1512fd578977a7aadbd&imgtype=0&src=http%3A%2F%2Fimg1.dzwww.com%3A8080%2Ftupian%2F20160604%2F42%2F18025463684534177698.jpg"
+            ],
+            "housePicturesPath": "兰亭绿源",
+            "location": "天津-天津市-河东区",
+            "floor": "在11层,共23层",
+            "houseType": "2室1厅1卫",
+            "orientation": "东南",
+            "decorated": "普通装修",
+            "area": "98",
+            "houseConfiguration": "空调,冰箱,洗衣机等家电一应俱全",
+            "rent": "6500",
+            "paymentWays": "付三押一",
+            "onHireDuration": "不限起租",
+            "renterRequire": "无不良嗜好",
+            "detailDescribe": "万达附近 都市森林 1室带独卫有厨房 精装新干净",
+            "publishTime": "1549955560"
+        }
+    ]
+}

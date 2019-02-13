@@ -1,0 +1,94 @@
+{
+    "data": [
+        {
+            "houseingResourceID": 20001,
+            "userId": 100,
+            "rentType": "整租",
+            "housePictures": [
+                "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1550051744188&di=45cf92930aaf0d4bb312ced6a9c710f4&imgtype=0&src=http%3A%2F%2Fp0.so.qhmsg.com%2Ft0135ac5922b24bf34f.jpg",
+                "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1550051744189&di=41ad79ef448c1254f75e7b530acf2f07&imgtype=0&src=http%3A%2F%2Fimgs.soufun.com%2Fnews%2F2015_12%2F28%2Frent%2F1451290168437_000.jpg"
+            ],
+            "housePicturesPath": "翠湖苑",
+            "location": "天津-天津市-河东区",
+            "floor": "在1层,共3层",
+            "houseType": "2室1厅1卫",
+            "orientation": "东南",
+            "decorated": "普通装修",
+            "area": "98",
+            "houseConfiguration": "空调,冰箱,洗衣机等家电一应俱全",
+            "rent": "6500",
+            "paymentWays": "付三押一",
+            "onHireDuration": "不限起租",
+            "renterRequire": "无不良嗜好",
+            "detailDescribe": "翠湖苑惊现特价大三房 封阳台 就没有了 !!",
+            "publishTime": "1549955560"
+        },
+        {
+            "houseingResourceID": 20002,
+            "userId": 100,
+            "rentType": "合租(转租)",
+            "housePictures": [
+                "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1550051744188&di=3b3c57bba0e4889e0f4c54c057da827f&imgtype=0&src=http%3A%2F%2F7nj0hk.com2.z0.glb.qiniucdn.com%2Froom%2F201709131712212581.jpg"
+            ],
+            "housePicturesPath": "外滩风景",
+            "location": "天津-天津市-河东区",
+            "floor": "在2层,共3层",
+            "houseType": "1室1厅1卫",
+            "orientation": "东南",
+            "decorated": "精品装修",
+            "area": "48",
+            "houseConfiguration": "梳妆台,空调,水电齐全,冰箱",
+            "rent": "4000",
+            "paymentWays": "付三押一",
+            "onHireDuration": "不限起租",
+            "renterRequire": "不喝酒,不抽烟,无不良嗜好",
+            "detailDescribe": "复式精装东西样样有",
+            "publishTime": "1549955560"
+        },
+        {
+            "houseingResourceID": 20002,
+            "userId": 100,
+            "rentType": "合租(转租)",
+            "housePictures": [
+                "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=756736207,3256282715&fm=26&gp=0.jpg",
+                "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1550052052346&di=43f6ef5047d8e8dfa67dfe4eabaeb420&imgtype=jpg&src=http%3A%2F%2Fimg2.imgtn.bdimg.com%2Fit%2Fu%3D3578078007%2C274123685%26fm%3D214%26gp%3D0.jpg"
+            ],
+            "housePicturesPath": "外滩风景",
+            "location": "天津-天津市-河东区",
+            "floor": "在2层,共3层",
+            "houseType": "1室1厅1卫",
+            "orientation": "东南",
+            "decorated": "精品装修",
+            "area": "48",
+            "houseConfiguration": "梳妆台,空调,水电齐全,冰箱",
+            "rent": "4000",
+            "paymentWays": "付三押一",
+            "onHireDuration": "不限起租",
+            "renterRequire": "不喝酒,不抽烟,无不良嗜好",
+            "detailDescribe": "复式精装东西样样有",
+            "publishTime": "1549955560"
+        },
+        {
+            "houseingResourceID": 20002,
+            "userId": 100,
+            "rentType": "合租(转租)",
+            "housePictures": [
+                "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1550052041246&di=3124530a81e1f404abb3e0333703d531&imgtype=jpg&src=http%3A%2F%2Fimg4.imgtn.bdimg.com%2Fit%2Fu%3D2006121494%2C1226287814%26fm%3D214%26gp%3D0.jpg"
+            ],
+            "housePicturesPath": "外滩风景",
+            "location": "天津-天津市-河东区",
+            "floor": "在2层,共3层",
+            "houseType": "1室1厅1卫",
+            "orientation": "东南",
+            "decorated": "精品装修",
+            "area": "48",
+            "houseConfiguration": "梳妆台,空调,水电齐全,冰箱",
+            "rent": "4000",
+            "paymentWays": "付三押一",
+            "onHireDuration": "不限起租",
+            "renterRequire": "不喝酒,不抽烟,无不良嗜好",
+            "detailDescribe": "复式精装东西样样有",
+            "publishTime": "1549955560"
+        }
+    ]
+}

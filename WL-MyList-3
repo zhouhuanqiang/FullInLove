@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "houseingResourceID": 20001,
+            "userId": 100,
+            "rentType": "整租",
+            "housePictures": [
+                "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1550051744188&di=43f03162517db84e2a0786f74c688f9c&imgtype=0&src=http%3A%2F%2F7nj0hk.com2.z0.glb.qiniucdn.com%2Froom%2F201612151443086050.jpg",
+                "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1550051744188&di=43f03162517db84e2a0786f74c688f9c&imgtype=0&src=http%3A%2F%2F7nj0hk.com2.z0.glb.qiniucdn.com%2Froom%2F201612151443086050.jpg"
+            ],
+            "housePicturesPath": "凤凰小区",
+            "location": "天津-天津市-河东区",
+            "floor": "在1层,共3层",
+            "houseType": "2室1厅1卫",
+            "orientation": "东南",
+            "decorated": "普通装修",
+            "area": "98",
+            "houseConfiguration": "空调,冰箱,洗衣机等家电一应俱全",
+            "rent": "6500",
+            "paymentWays": "付三押一",
+            "onHireDuration": "不限起租",
+            "renterRequire": "无不良嗜好",
+            "detailDescribe": "高新区皇冠花园旁交通紫园 家装出租 人车分流临市菜场",
+            "publishTime": "1549955560"
+        },
+        {
+            "houseingResourceID": 20002,
+            "userId": 100,
+            "rentType": "合租(转租)",
+            "housePictures": [
+                "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2748820968,4265761899&fm=26&gp=0.jpg"
+            ],
+            "housePicturesPath": "天水小区",
+            "location": "天津-天津市-河东区",
+            "floor": "在2层,共3层",
+            "houseType": "1室1厅1卫",
+            "orientation": "东南",
+            "decorated": "精品装修",
+            "area": "48",
+            "houseConfiguration": "梳妆台,空调,水电齐全,冰箱",
+            "rent": "4000",
+            "paymentWays": "付三押一",
+            "onHireDuration": "不限起租",
+            "renterRequire": "不喝酒,不抽烟,无不良嗜好",
+            "detailDescribe": "天一家园公寓朝南42平方复式精装2400元包物业看房电话预约",
+            "publishTime": "1549955560"
+        }
+    ]
+}

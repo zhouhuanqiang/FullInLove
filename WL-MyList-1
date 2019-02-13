@@ -1,0 +1,137 @@
+{
+    "data": [
+        {
+            "houseingResourceID": 20001,
+            "userId": 100,
+            "rentType": "整租",
+            "housePictures": [
+                "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1550564012&di=f9603157309e9be95d0903d9c2697305&imgtype=jpg&er=1&src=http%3A%2F%2Fwww.360changshi.com%2Fuploadfile%2F2016%2F0102%2F20160102103414954.jpg"
+            ],
+            "housePicturesPath": "凤凰小区",
+            "location": "天津-天津市-河东区",
+            "floor": "在1层,共3层",
+            "houseType": "2室1厅1卫",
+            "orientation": "东南",
+            "decorated": "普通装修",
+            "area": "98",
+            "houseConfiguration": "空调,冰箱,洗衣机等家电一应俱全",
+            "rent": "6500",
+            "paymentWays": "付三押一",
+            "onHireDuration": "不限起租",
+            "renterRequire": "无不良嗜好",
+            "detailDescribe": "两室一厅好房出租,坐北朝南,南北通透,第一手房源,速到速得!",
+            "publishTime": "1549955560"
+        },
+        {
+            "houseingResourceID": 20002,
+            "userId": 100,
+            "rentType": "合租(转租)",
+            "housePictures": [
+                "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1549969293956&di=8051eabcb9447edda6a9722d19d0ca83&imgtype=0&src=http%3A%2F%2Fs3.sinaimg.cn%2Fmw690%2F006gv1p6zy73JvHRHeq12%26690"
+            ],
+            "housePicturesPath": "天水小区",
+            "location": "天津-天津市-河东区",
+            "floor": "在2层,共3层",
+            "houseType": "1室1厅1卫",
+            "orientation": "东南",
+            "decorated": "精品装修",
+            "area": "48",
+            "houseConfiguration": "梳妆台,空调,水电齐全,冰箱",
+            "rent": "4000",
+            "paymentWays": "付三押一",
+            "onHireDuration": "不限起租",
+            "renterRequire": "不喝酒,不抽烟,无不良嗜好",
+            "detailDescribe": "精品小区天水小区,靠近地铁三号线,拎包入住,押三付一",
+            "publishTime": "1549955560"
+        },
+        {
+            "houseingResourceID": 20001,
+            "userId": 100,
+            "rentType": "整租",
+            "housePictures": [
+                "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1549969293957&di=0c471611e4c1fa66aa80e85dc84fb6cc&imgtype=0&src=http%3A%2F%2Fuploadcdn6.xkhouse.com%2Fattachment%2Fimage%2F2017%2F0802%2F1501628406878386.jpg"
+            ],
+            "housePicturesPath": "汇豪天下",
+            "location": "天津-天津市-河东区",
+            "floor": "在1层,共3层",
+            "houseType": "2室1厅1卫",
+            "orientation": "东南",
+            "decorated": "普通装修",
+            "area": "98",
+            "houseConfiguration": "空调,冰箱,洗衣机等家电一应俱全",
+            "rent": "6500",
+            "paymentWays": "付三押一",
+            "onHireDuration": "不限起租",
+            "renterRequire": "无不良嗜好",
+            "detailDescribe": "豪装中层 出租 实图实价 手慢没有 拎包入住",
+            "publishTime": "1549955560"
+        },
+        {
+            "houseingResourceID": 20002,
+            "userId": 100,
+            "rentType": "合租(转租)",
+            "housePictures": [
+                "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1549969293956&di=8112f18a52f2e97bfc3ef68a486faace&imgtype=0&src=http%3A%2F%2Fimgsrc.baidu.com%2Fimgad%2Fpic%2Fitem%2F3801213fb80e7bec361024cf242eb9389a506bd1.jpg",
+            ],
+            "housePicturesPath": "南塘老街",
+            "location": "天津-天津市-河东区",
+            "floor": "在2层,共3层",
+            "houseType": "1室1厅1卫",
+            "orientation": "东南",
+            "decorated": "精品装修",
+            "area": "48",
+            "houseConfiguration": "梳妆台,空调,水电齐全,冰箱",
+            "rent": "4000",
+            "paymentWays": "付三押一",
+            "onHireDuration": "不限起租",
+            "renterRequire": "不喝酒,不抽烟,无不良嗜好",
+            "detailDescribe": "天一 阁旁菱池小区3楼,二南精装,全亮,阳光好,",
+            "publishTime": "1549955560"
+        },
+        {
+            "houseingResourceID": 20001,
+            "userId": 100,
+            "rentType": "整租",
+            "housePictures": [
+                "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1550051744188&di=45cf92930aaf0d4bb312ced6a9c710f4&imgtype=0&src=http%3A%2F%2Fp0.so.qhmsg.com%2Ft0135ac5922b24bf34f.jpg",
+                "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1550051744189&di=41ad79ef448c1254f75e7b530acf2f07&imgtype=0&src=http%3A%2F%2Fimgs.soufun.com%2Fnews%2F2015_12%2F28%2Frent%2F1451290168437_000.jpg"
+            ],
+            "housePicturesPath": "翠湖苑",
+            "location": "天津-天津市-河东区",
+            "floor": "在1层,共3层",
+            "houseType": "2室1厅1卫",
+            "orientation": "东南",
+            "decorated": "普通装修",
+            "area": "98",
+            "houseConfiguration": "空调,冰箱,洗衣机等家电一应俱全",
+            "rent": "6500",
+            "paymentWays": "付三押一",
+            "onHireDuration": "不限起租",
+            "renterRequire": "无不良嗜好",
+            "detailDescribe": "翠湖苑惊现特价大三房 封阳台 就没有了 !!",
+            "publishTime": "1549955560"
+        },
+        {
+            "houseingResourceID": 20002,
+            "userId": 100,
+            "rentType": "合租(转租)",
+            "housePictures": [
+                "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1550051744188&di=3b3c57bba0e4889e0f4c54c057da827f&imgtype=0&src=http%3A%2F%2F7nj0hk.com2.z0.glb.qiniucdn.com%2Froom%2F201709131712212581.jpg"
+            ],
+            "housePicturesPath": "外滩风景",
+            "location": "天津-天津市-河东区",
+            "floor": "在2层,共3层",
+            "houseType": "1室1厅1卫",
+            "orientation": "东南",
+            "decorated": "精品装修",
+            "area": "48",
+            "houseConfiguration": "梳妆台,空调,水电齐全,冰箱",
+            "rent": "4000",
+            "paymentWays": "付三押一",
+            "onHireDuration": "不限起租",
+            "renterRequire": "不喝酒,不抽烟,无不良嗜好",
+            "detailDescribe": "复式精装东西样样有",
+            "publishTime": "1549955560"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "houseingResourceID": 20004,
+            "userId": 100,
+            "rentType": "整租",
+            "housePictures": [
+                "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1549969293957&di=0c471611e4c1fa66aa80e85dc84fb6cc&imgtype=0&src=http%3A%2F%2Fuploadcdn6.xkhouse.com%2Fattachment%2Fimage%2F2017%2F0802%2F1501628406878386.jpg"
+            ],
+            "housePicturesPath": "钱就小住",
+            "location": "天津-天津市-河西区",
+            "floor": "在2层,共3层",
+            "houseType": "3室1厅1卫",
+            "orientation": "东南",
+            "decorated": "普通装修",
+            "area": "110",
+            "houseConfiguration": "空调,冰箱,洗衣机等家电一应俱全",
+            "rent": "7500",
+            "paymentWays": "付三押一",
+            "onHireDuration": "不限起租",
+            "renterRequire": "无不良嗜好",
+            "detailDescribe": "第一手房源,速到速得!",
+            "publishTime": "1549955560"
+        }
+    ]
+}
