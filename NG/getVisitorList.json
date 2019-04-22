@@ -1,0 +1,39 @@
+{
+    "list": [
+        {
+            "age": 22,
+            "sex": 1,
+            "uid": 50112,
+            "nickname": "徐伟博",
+            "avatar": "http://appstatic.cctv69.top/anchor/50112/avatar20180914043551834.jpg?x-oss-process=image/resize,h_750"
+        },
+        {
+            "age": 41,
+            "sex": 2,
+            "uid": 50110,
+            "nickname": "黄莉",
+            "avatar": "http://appstatic.cctv69.top/anchor/50110/avatar20180914043550020.jpg"
+        },
+        {
+            "age": 24,
+            "sex": 2,
+            "uid": 50093,
+            "nickname": "甜觅刘",
+            "avatar": "http://appstatic.cctv69.top/anchor/50093/avatar20180914043109902.jpg"
+        },
+        {
+            "age": 27,
+            "sex": 2,
+            "uid": 50058,
+            "nickname": "心真如梦",
+            "avatar": "http://appstatic.cctv69.top/anchor/50058/avatar20180914043036430.jpg"
+        },
+        {
+            "age": 28,
+            "sex": 2,
+            "uid": 50000,
+            "nickname": "珠珠",
+            "avatar": "http://appstatic.cctv69.top/anchor/50000/avatar20180914.jpg"
+        }
+    ]
+}

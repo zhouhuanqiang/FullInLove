@@ -1,0 +1,56 @@
+[
+    {
+        "avatar": "http://appstatic.cctv69.top/anchor/53422/avatar20190131162544.jpg?x-oss-process=image/resize,h_750",
+        "uid": 53422,
+        "amount": 323505,
+        "nickname": "小瓶钙",
+        "sort": 0,
+        "platform": null,
+        "level": null
+    },
+    {
+        "avatar": "http://appstatic.cctv69.top/anchor/51033/avatar20181225102112.jpg?x-oss-process=image/resize,h_750",
+        "uid": 51033,
+        "amount": 305514,
+        "nickname": "橙子小姐",
+        "sort": 1,
+        "platform": null,
+        "level": null
+    },
+    {
+        "avatar": "http://appstatic.cctv69.top/anchor/54137/avatar20190402144620.jpg?x-oss-process=image/resize,h_750",
+        "uid": 54137,
+        "amount": 241504,
+        "nickname": "你的五姑娘",
+        "sort": 2,
+        "platform": null,
+        "level": null
+    },
+    {
+        "avatar": "http://appstatic.cctv69.top/anchor/52702/avatar20181219144535.jpg?x-oss-process=image/resize,h_750",
+        "uid": 52702,
+        "amount": 233878,
+        "nickname": "水蜜桃",
+        "sort": 3,
+        "platform": null,
+        "level": null
+    },
+    {
+        "avatar": "http://appstatic.cctv69.top/anchor/52404/avatar20181223150903.jpg?x-oss-process=image/resize,h_750",
+        "uid": 52404,
+        "amount": 208846,
+        "nickname": "贝贝",
+        "sort": 4,
+        "platform": null,
+        "level": null
+    },
+    {
+        "avatar": "http://appstatic.cctv69.top/anchor/53869/avatar20190325092634.jpg?x-oss-process=image/resize,h_750",
+        "uid": 53869,
+        "amount": 208014,
+        "nickname": "颜 涩",
+        "sort": 5,
+        "platform": null,
+        "level": null
+    }
+]
